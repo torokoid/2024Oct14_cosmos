@@ -155,9 +155,10 @@ p.note { display: none; }
 <a href="20241014_016.JPG" target="_blank"><img src="20241014_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_017.JPG" target="_blank"><img src="20241014_017.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">遠くの山々は日光連山。左端が男体山！</span></h2>
 <a href="20241014_018.JPG" target="_blank"><img src="20241014_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_019.JPG" target="_blank"><img src="20241014_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">遠くの山々は日光連山。左端が男体山！</span></h2>
 <a href="20241014_020.JPG" target="_blank"><img src="20241014_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_021.JPG" target="_blank"><img src="20241014_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_022.JPG" target="_blank"><img src="20241014_022.JPG" alt="サンプル画像" width="900" /></a>
