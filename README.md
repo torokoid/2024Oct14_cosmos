@@ -149,9 +149,13 @@ p.note { display: none; }
 <a href="20241014_012.JPG" target="_blank"><img src="20241014_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_013.JPG" target="_blank"><img src="20241014_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_014.JPG" target="_blank"><img src="20241014_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">池の魚は鯉で売店で売られている餌をもらって育ってます。<br>池の水は鬼怒川本流から地下経路を通って砂で濾過された透明な水！</span></h2>
 <a href="20241014_015.JPG" target="_blank"><img src="20241014_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_016.JPG" target="_blank"><img src="20241014_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_017.JPG" target="_blank"><img src="20241014_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">遠くの山々は日光連山。左端が男体山！</span></h2>
 <a href="20241014_018.JPG" target="_blank"><img src="20241014_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_019.JPG" target="_blank"><img src="20241014_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_020.JPG" target="_blank"><img src="20241014_020.JPG" alt="サンプル画像" width="900" /></a>
