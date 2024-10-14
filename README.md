@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/10/4 、羽田さんの悠々自適な１カ月を根掘り葉掘りする会@ふくわうち by 松本敦考 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/10/14 、鬼怒川河川敷公園のコスモスが満開です !!!</marquee></span></h1>
 
 <!--上段にパンクズリストを入れる時の例-->
 <!--
@@ -131,7 +131,9 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">定年退職１ヶ月後の飲み会です！</span></h2>
+<h2><span class="yellow">鬼怒川河川敷公園！</span></h2>
+
+
 
 <a href="20241014_001.JPG" target="_blank"><img src="20241014_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241014_002.JPG" target="_blank"><img src="20241014_002.JPG" alt="サンプル画像" width="900" /></a>
