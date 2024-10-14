@@ -132,7 +132,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">鬼怒川河川敷公園！</span></h2>
-
+<a href="20241014_000.png" target="_blank"><img src="20241014_000.png" alt="サンプル画像" width="900" /></a>
 
 
 <a href="20241014_001.JPG" target="_blank"><img src="20241014_001.JPG" alt="サンプル画像" width="900" /></a>
